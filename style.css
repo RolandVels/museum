@@ -1,8 +1,11 @@
 body{
 	background-color: #fef376;
 	font-family: Nunito;
-	overflow-x: hidden;
 	font-weight: 100!important;
+}
+
+.warp{
+	overflow-x: hidden;
 }
 
 #mainNavbar .navbar-brand{
