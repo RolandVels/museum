@@ -1,11 +1,12 @@
+html body{
+	overflow-x: hidden;
+}
+
+
 body{
 	background-color: #fef376;
 	font-family: Nunito;
 	font-weight: 100!important;
-}
-
-.warp{
-	overflow-x: hidden;
 }
 
 #mainNavbar .navbar-brand{
