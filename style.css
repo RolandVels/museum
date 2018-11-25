@@ -1,0 +1,72 @@
+body{
+	background-color: #fef376;
+	font-family: Nunito;
+	overflow-x: hidden;
+	font-weight: 100!important;
+}
+
+#mainNavbar .navbar-brand{
+	color: red;
+	font-size: 2rem;
+}
+
+#mainNavbar .nav-link{
+	color: white;
+}
+
+#mainNavbar .nav-link:hover{
+	color: red;
+}
+
+#mainNavbar{
+	font-size: 1.8rem;
+	font-weight: 100;
+	padding-top: 0px;
+	padding-bottom: 0px;	
+}
+
+.navbar.scrolled{
+	background-color: rgb(222,192,222);
+	transition: 1s;
+}
+
+#headingGroup span{
+	color: red;
+}
+
+
+@media (max-width: 1230px){
+#headingGroup h2{
+	font-size: 1.6rem;
+}	
+}
+
+[class*='col-'] {
+  min-height: 0px;
+  padding: 0px;
+}
+
+h2{
+	font-size: 2.4rem;
+}
+
+h3{
+	color: red;
+	font-size: 1.9rem;
+}
+
+.fab{
+	color: white;
+}
+
+p{
+	color: #f498b8;
+	font-size: 1.1rem!important;
+}
+
+
+
+
+
+
+
